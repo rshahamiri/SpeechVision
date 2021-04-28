@@ -1,0 +1,1 @@
+All B1 and B2 data are used for traiing anb all B3 data for testing.

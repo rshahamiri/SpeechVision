@@ -1,0 +1,1 @@
+All BX_XXXX samples were excluded because there weren't enough samples avaiable. For example: B1_UW1 (such as CF03_B1_UW1_M3.wav) or B2_UW72 (M08_B2_UW72_M7.wav).
