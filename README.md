@@ -1,5 +1,5 @@
 # Speech Vision
-Speech Vision (SV) is  a novel Dysarthric Speech Recognition System  that adopts a novel approach towards dysarthric ASR in which speech features are extracted visually, then SV learns to  see the shape of the words pronounced by dysarthric individuals.
+Speech Vision (SV) is  a Dysarthric Speech Recognition System  that adopts a novel approach towards dysarthric ASR in which speech features are extracted visually, then SV learns to  see the shape of the words pronounced by dysarthric individuals.
 
 There are two folders:
 
