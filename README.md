@@ -11,3 +11,5 @@ Please note if you get errors when running or testing the pre-trained models, th
 To setup the environment, create a python 3.6 environment and install jupyter notebook. Then run “Install packages.ipynb” notebook from the environment - it installs the required packages for you.
 
 The dysarhtic speech samples are from UA Speech (http://www.isle.illinois.edu/sst/data/UASpeech/).
+
+Speech Vision's paper is avaiable from https://ieeexplore.ieee.org/document/9419963. Kindly cite the paper if you intend to use this repo.
