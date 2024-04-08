@@ -13,3 +13,5 @@ To setup the environment, create a python 3.6 environment and install jupyter no
 The dysarhtic speech samples are from UA Speech (http://www.isle.illinois.edu/sst/data/UASpeech/).
 
 Speech Vision's paper is avaiable from https://ieeexplore.ieee.org/document/9419963. Kindly cite the paper if you intend to use this repo.
+
+Also see: https://github.com/rshahamiri/SpeechVisionResidualSeparable for the updated model information.
